@@ -1,7 +1,3 @@
 Primera linea del parrafo
 
-Primera linea del parrafo en rama Luis
-
-Primera linea del parrafo en rama Luis
-
-Primera linea del parrafo en rama Luis
+Hola mundo
